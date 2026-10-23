@@ -6,6 +6,6 @@ They're thin, round framed glasses, but the lenses are completely black. Upon tr
 
 > Don't trust the ticking, they'll find you. Look under the desk.
 
-You also see an arrow on the other wall, but it points to nothing.
+You also see an X on the other wall, but there's nothing else near it.
 
 - [Check under the desk](./BA2.md)
