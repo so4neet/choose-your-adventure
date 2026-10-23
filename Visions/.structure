@@ -1,0 +1,55 @@
+# Visions  |  Structure
+
+Player awakenes in a dark room
+
+1:
+Branch A: Player checks pockets
+Branch A1: Player checks desk, sees note to check pockets
+Branch B: Player tries to open door
+
+2:
+Branch A: Player finds the glasses, puts them on and sees writing on the wall
+Branch B: Door is locked, put ear to door or check desk
+
+3:
+Branch A: Player checks under desk and finds key and drill
+Branch B1: Player hears ticking behind the door
+Branch B2: Player checks desk, sees note to check pockets
+
+4:
+Branch A: Player unlocks door, walks out and is spotted by the alarm system
+Branch B1: Glasses fall out of pocket, puts them on and sees writing on the wall
+Branch B2: Player (while crouching at the bottom of the door) spots the key under the desk
+
+5:
+Branch B1: Player checks under desk and finds key and drill, player drills the marked spot on the wall and severs a bundle of wires, disabling the alarm system.
+Branch B2: Player grabs the key and unlocks the door, walks out and is spotted by alarm system
+Branch B3: Player grabs the drill
+
+6:
+Branch B1: Player walks out of the door and sees a guard in the distance, there is a door to the left and a door to the right
+Branch B3: Player hears a knock on the door and a robotic voice asking what they're doing
+
+7:
+Branch B1: Player checks the left door, it's locked and the guard spots them. Begins approaching
+Branch B2: Player checks the right door, enters and sees another empty room
+Branch C1: Player uses the drill to disable the guard robot
+Branch C2: Player is apprehended by guard robot
+Branch C3: Player tries to persuade the guard robot
+
+8:
+Branch B1: Player tries to persuade the guard robot
+Branch B2: Player uses glasses and sees message on wall, Opens escape hatch
+Branch B3: Player continues down hall
+Branch C1: Player leaves the room and sees the two doors
+Branch C2: Player lose
+Branch C3: Player asks the robot a paradox, disabling it
+
+9:
+Branch B1: Player lose
+Branch B2: Player win!
+Branch B3: Lights go out, player lose
+Branch C1: Player chooses left door, enters and finds the guards supply room. Picks up flashlight and radio
+Branch C2: Player chooses right door, sees blank room
+Branch C3: Player exits room
+
